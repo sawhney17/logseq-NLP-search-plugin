@@ -1,0 +1,28 @@
+.question-popup {
+    padding: 1em;
+    background: rgb(40, 157, 165); 
+    z-index: 9; 
+    border-radius: 10px;
+    /* -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); */
+  }
+
+  .centered-element {
+    margin: 0;
+    position: absolute;
+    top: 30%;
+    transform: translateY(-50%);
+  }
+
+  .button {
+    padding: 10px 20px;
+    background-color: dodgerblue;
+    border: 1px solid #ddd;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+
+  .button:hover {
+    background-color: royalblue;
+  }
