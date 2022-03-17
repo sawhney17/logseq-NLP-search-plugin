@@ -1,6 +1,6 @@
 {
   "name": "logseq-plugin-nlp-search",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "dist/index.html",
   "logseq": {
     "id": "logseq-plugin-nlp-search",
